@@ -1,44 +1,9 @@
-/*obrabianie headingu z headerami i paragrafami*/
-#headings{
-    color:blueviolet;
+p, h1,h2,h3,a,div, span,li{
     font-size: 15px;
+    color: red;
+    font-weight:bold;
+    font-family: Arial;
 }
-.something{
-    font-family: "Agency FB";
-}
-
-
-body{
-    background-color: aquamarine;
-}
-div{
-    background-color: cadetblue;
-}
-p{
-    background-color: greenyellow;
-}
-
-
-
-
-
-/* CASCADE EXAMPLE*/
-strong{
-    color: deeppink;
-}
-#very-important-span{
-    color:black;
-}
-.deck{
-    color: deeppink;
-}
-span{
-    background-color: coral;
-    display: block;
-    color: blue;
-}
-
-span{
+a{
     color:red;
-
 }
