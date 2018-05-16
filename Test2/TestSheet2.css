@@ -1,0 +1,22 @@
+
+a:hover{
+    color:red;
+    font-size: 20px;
+
+}
+article.content{
+    color: blue;
+    background-color: red;
+    font-size: 20px;
+    font-family: Arial;
+    font-weight: 700;
+    text-transform: uppercase;
+
+
+}
+
+div.content{
+    background-color: blueviolet;
+    font-size: 15px;
+    color:red;
+}

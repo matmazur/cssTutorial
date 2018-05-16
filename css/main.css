@@ -9,3 +9,16 @@ a[href$="pdf"]{
 a[href^="http"]{
     background-color: red;
 }
+
+a:hover{
+    color:red;
+    font-size: 20px;
+
+}
+
+a:active{
+    color:black;
+}
+a:visited{
+    color:blue;
+}

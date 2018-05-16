@@ -2,9 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="498a618a-1845-491d-b048-b1418da74191" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/Test2/TestFile2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Test2/TestSheet2.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Test3/TestFile3.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Test3/TestSheet3.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test4/TestFile4.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test4/TestSheet4.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TestFile.html" beforeDir="false" afterPath="$PROJECT_DIR$/TestFile.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TestSheet.css" beforeDir="false" afterPath="$PROJECT_DIR$/TestSheet.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TestFile.html" beforeDir="false" afterPath="$PROJECT_DIR$/Test/TestFile.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TestSheet.css" beforeDir="false" afterPath="$PROJECT_DIR$/Test/TestSheet.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/css/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/main.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
@@ -17,23 +23,50 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <splitter split-orientation="vertical" split-proportion="0.42892158">
+    <splitter split-orientation="vertical" split-proportion="0.44730392">
       <split-first>
         <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-          <file leaf-file-name="main.css" pinned="false" current-in-tab="true">
+          <file leaf-file-name="main.css" pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/css/main.css">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="153">
-                  <caret line="9" column="26" selection-start-line="9" selection-start-column="26" selection-end-line="9" selection-end-column="26" />
+                <state relative-caret-position="357">
+                  <caret line="21" column="10" lean-forward="true" selection-start-line="21" selection-start-column="10" selection-end-line="21" selection-end-column="10" />
                 </state>
               </provider>
             </entry>
           </file>
           <file leaf-file-name="TestSheet.css" pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/TestSheet.css">
+            <entry file="file://$PROJECT_DIR$/Test/TestSheet.css">
               <provider selected="true" editor-type-id="text-editor">
                 <state relative-caret-position="85">
                   <caret line="5" column="16" selection-start-line="5" selection-start-column="16" selection-end-line="5" selection-end-column="16" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="TestSheet2.css" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/Test2/TestSheet2.css">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="204">
+                  <caret line="12" column="29" selection-start-line="12" selection-start-column="29" selection-end-line="12" selection-end-column="29" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="TestSheet3.css" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/Test3/TestSheet3.css">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="170">
+                  <caret line="10" column="1" lean-forward="true" selection-start-line="10" selection-start-column="1" selection-end-line="10" selection-end-column="1" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="TestSheet4.css" pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/test4/TestSheet4.css">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="102">
+                  <caret line="6" column="1" lean-forward="true" selection-start-line="6" selection-start-column="1" selection-end-line="6" selection-end-column="1" />
                 </state>
               </provider>
             </entry>
@@ -42,11 +75,11 @@
       </split-first>
       <split-second>
         <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-          <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
+          <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/index.html">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="282">
-                  <caret line="98" column="35" selection-start-line="98" selection-start-column="35" selection-end-line="98" selection-end-column="35" />
+                <state relative-caret-position="265">
+                  <caret line="111" selection-start-line="111" selection-end-line="111" />
                 </state>
               </provider>
             </entry>
@@ -60,11 +93,20 @@
               </provider>
             </entry>
           </file>
-          <file leaf-file-name="TestFile.html" pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/TestFile.html">
+          <file leaf-file-name="TestFile3.html" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/Test3/TestFile3.html">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="129">
-                  <caret line="34" selection-start-line="34" selection-end-line="34" />
+                <state relative-caret-position="170">
+                  <caret line="28" column="17" selection-start-line="28" selection-start-column="17" selection-end-line="28" selection-end-column="17" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="TestFile4.html" pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/test4/TestFile4.html">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="85">
+                  <caret line="5" column="65" selection-start-line="5" selection-start-column="65" selection-end-line="5" selection-end-column="65" />
                 </state>
               </provider>
             </entry>
@@ -91,8 +133,17 @@
         <option value="$PROJECT_DIR$/contact-info/index.html" />
         <option value="$PROJECT_DIR$/TestFile.html" />
         <option value="$PROJECT_DIR$/TestSheet.css" />
-        <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/css/main.css" />
+        <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/contact-info/TestFile2.html" />
+        <option value="$PROJECT_DIR$/TestSheet2.css" />
+        <option value="$PROJECT_DIR$/Test2/TestSheet2.css" />
+        <option value="$PROJECT_DIR$/Test2/TestFile2.html" />
+        <option value="$PROJECT_DIR$/Test3/TestFile3.html" />
+        <option value="$PROJECT_DIR$/Test3/TestSheet3.css" />
+        <option value="$PROJECT_DIR$/TestFile4.html" />
+        <option value="$PROJECT_DIR$/test4/TestSheet4.css" />
+        <option value="$PROJECT_DIR$/test4/TestFile4.html" />
       </list>
     </option>
   </component>
@@ -134,7 +185,22 @@
             <path>
               <item name="cssTutorial" type="b2602c69:ProjectViewProjectNode" />
               <item name="cssTutorial" type="462c0819:PsiDirectoryNode" />
-              <item name="css" type="462c0819:PsiDirectoryNode" />
+              <item name="Test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="cssTutorial" type="b2602c69:ProjectViewProjectNode" />
+              <item name="cssTutorial" type="462c0819:PsiDirectoryNode" />
+              <item name="Test2" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="cssTutorial" type="b2602c69:ProjectViewProjectNode" />
+              <item name="cssTutorial" type="462c0819:PsiDirectoryNode" />
+              <item name="Test3" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="cssTutorial" type="b2602c69:ProjectViewProjectNode" />
+              <item name="cssTutorial" type="462c0819:PsiDirectoryNode" />
+              <item name="test4" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -157,11 +223,15 @@
     <property name="project.structure.side.proportion" value="0.0" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\mateusz\IdeaProjects\cssTutorial\css" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\mateusz\IdeaProjects\cssTutorial\Test3" />
       <recent name="C:\Users\mateusz\IdeaProjects\cssTutorial" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\mateusz\IdeaProjects\cssTutorial\test4" />
+      <recent name="C:\Users\mateusz\IdeaProjects\cssTutorial\Test2" />
+      <recent name="C:\Users\mateusz\IdeaProjects\cssTutorial\Test" />
+      <recent name="C:\Users\mateusz\IdeaProjects\cssTutorial\css" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -176,7 +246,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JavaScript Debug.index.html">
+  <component name="RunManager" selected="JavaScript Debug.TestFile4.html">
     <configuration default="true" type="Application" factoryName="Application">
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
     </configuration>
@@ -196,9 +266,10 @@
       </option>
       <patterns />
     </configuration>
-    <configuration name="TestFile.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/cssTutorial/TestFile.html" />
-    <configuration name="Test.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/cssTutorial/css/Test.html" />
-    <configuration name="index.html (1)" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/cssTutorial/contact-info/index.html" />
+    <configuration name="TestFile2.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/cssTutorial/Test2/TestFile2.html" />
+    <configuration name="TestFile3.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/cssTutorial/Test3/TestFile3.html" />
+    <configuration name="TestFile4.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/cssTutorial/test4/TestFile4.html" />
+    <configuration name="TestFile.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/cssTutorial/Test/TestFile.html" />
     <configuration name="index.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/cssTutorial/index.html" />
     <configuration default="true" type="TestNG" factoryName="TestNG">
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
@@ -224,16 +295,18 @@
     </configuration>
     <list>
       <item itemvalue="JavaScript Debug.index.html" />
-      <item itemvalue="JavaScript Debug.Test.html" />
-      <item itemvalue="JavaScript Debug.index.html (1)" />
       <item itemvalue="JavaScript Debug.TestFile.html" />
+      <item itemvalue="JavaScript Debug.TestFile2.html" />
+      <item itemvalue="JavaScript Debug.TestFile3.html" />
+      <item itemvalue="JavaScript Debug.TestFile4.html" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="JavaScript Debug.TestFile4.html" />
+        <item itemvalue="JavaScript Debug.TestFile3.html" />
+        <item itemvalue="JavaScript Debug.TestFile2.html" />
         <item itemvalue="JavaScript Debug.index.html" />
         <item itemvalue="JavaScript Debug.TestFile.html" />
-        <item itemvalue="JavaScript Debug.index.html (1)" />
-        <item itemvalue="JavaScript Debug.Test.html" />
       </list>
     </recent_temporary>
   </component>
@@ -248,12 +321,12 @@
       <option name="presentableId" value="Default" />
       <updated>1526394700864</updated>
       <workItem from="1526394706693" duration="12083000" />
-      <workItem from="1526463344543" duration="1832000" />
+      <workItem from="1526463344543" duration="9757000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="13915000" />
+    <option name="totallyTimeSpent" value="21840000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-5" y="275" width="1146" height="931" extended-state="0" />
@@ -269,7 +342,7 @@
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Run" order="2" />
-      <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.32965687" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="2" />
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.18584071" />
@@ -302,7 +375,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/TestSheet.css">
+    <entry file="file://$PROJECT_DIR$/Test/TestSheet.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="51">
           <caret line="3" column="1" lean-forward="true" selection-start-line="3" selection-start-column="1" selection-end-line="3" selection-end-column="1" />
@@ -323,7 +396,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/TestFile.html">
+    <entry file="file://$PROJECT_DIR$/Test/TestFile.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="476">
           <caret line="28" column="7" selection-start-line="28" selection-start-column="7" selection-end-line="28" selection-end-column="7" />
@@ -331,21 +404,14 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/css/Test.html" />
-    <entry file="file://$PROJECT_DIR$/contact-info/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="9" selection-start-line="9" selection-end-line="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/TestFile.html">
+    <entry file="file://$PROJECT_DIR$/Test/TestFile.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="129">
           <caret line="34" selection-start-line="34" selection-end-line="34" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/TestSheet.css">
+    <entry file="file://$PROJECT_DIR$/Test/TestSheet.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="85">
           <caret line="5" column="16" selection-start-line="5" selection-start-column="16" selection-end-line="5" selection-end-column="16" />
@@ -354,15 +420,64 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="282">
-          <caret line="98" column="35" selection-start-line="98" selection-start-column="35" selection-end-line="98" selection-end-column="35" />
+        <state relative-caret-position="265">
+          <caret line="111" selection-start-line="111" selection-end-line="111" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Test2/TestSheet2.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" column="29" selection-start-line="12" selection-start-column="29" selection-end-line="12" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/contact-info/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="9" selection-start-line="9" selection-end-line="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Test2/TestFile2.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="28" lean-forward="true" selection-start-line="11" selection-start-column="28" selection-end-line="11" selection-end-column="28" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/css/main.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" column="26" selection-start-line="9" selection-start-column="26" selection-end-line="9" selection-end-column="26" />
+        <state relative-caret-position="357">
+          <caret line="21" column="10" lean-forward="true" selection-start-line="21" selection-start-column="10" selection-end-line="21" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Test3/TestFile3.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="28" column="17" selection-start-line="28" selection-start-column="17" selection-end-line="28" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Test3/TestSheet3.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="1" lean-forward="true" selection-start-line="10" selection-start-column="1" selection-end-line="10" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test4/TestFile4.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="65" selection-start-line="5" selection-start-column="65" selection-end-line="5" selection-end-column="65" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test4/TestSheet4.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="1" lean-forward="true" selection-start-line="6" selection-start-column="1" selection-end-line="6" selection-end-column="1" />
         </state>
       </provider>
     </entry>

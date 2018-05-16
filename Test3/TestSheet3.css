@@ -1,0 +1,11 @@
+article p{
+    letter-spacing: 2px;
+}
+
+.lorem p{
+    font-size: 12px;
+    letter-spacing: 0.2em;
+    word-spacing:  0.2em;
+    line-height: 1.1em;
+    margin-bottom: 50px;
+}
