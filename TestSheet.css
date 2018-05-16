@@ -1,4 +1,8 @@
-#all-articles h2 + p {
+/*#all-articles h2 + p {
     color:red;
 
+}*/
+
+#lvl1>p, #lvl3>p{
+    color: red;
 }

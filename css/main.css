@@ -1,9 +1,11 @@
-p, h1,h2,h3,a,div, span,li{
-    font-size: 15px;
-    color: red;
-    font-weight:bold;
-    font-family: Arial;
-}
-a{
+span[class~="deck"]{
+    display:block;
     color:red;
+}
+
+a[href$="pdf"]{
+    color:blueviolet;
+}
+a[href^="http"]{
+    background-color: red;
 }
