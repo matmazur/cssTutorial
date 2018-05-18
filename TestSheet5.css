@@ -1,38 +1,25 @@
-#circle1 {
-    width: 400px;
-    height: 400px;
-    position: absolute;
-    background-color: rgba(255,00,00,1);
-    border-radius: 200px;
-    top: 50px;
-    left: 50px;
-    text-align: center;
+.button {
+    display: block;
+    width: 100px;
+    padding: 12px;
+    border-right: 1px solid #77aaaa;
+    font-family: Arial;
     font-weight: bold;
+    text-transform: uppercase;
+    color: #000000;
+    font-size: 14px;
+    text-align: center;
+    border-radius: 4px;
+    background: #aadddd;
+    background: -moz-linear-gradient(right, #aadddd 0%, #ffaaaa 100%);
+    background: -webkit-linear-gradient(right, #aadddd 0%, #ffaaaa 100%);
+    background: linear-gradient(right, #aadddd 0%, #ffaaaa 100%);
+    box-shadow: -5px 5px 2px 2px #000000;
+
 }
-
-#circle2 {
-    width: 400px;
-    height: 400px;
-    position: absolute;
-    background-color: rgba(00,255,00,0.4);
-    border-radius: 200px;
-    top: 50px;
-    left: 200px;
-
-    text-align: center;
-    font-weight: bold;
-}
-
-#circle3 {
-    width: 400px;
-    height: 400px;
-    position: absolute;
-    background-color: rgba(00,00,255,0.7);
-    border-radius: 200px;
-    top: 200px;
-    left: 100px;
-
-    text-align: center;
-    font-weight: bold;
-
+.button:hover{
+    background: #778888;
+    background: -moz-linear-gradient(left, #aadddd 0%, #ffaaaa 100%);
+    background: -webkit-linear-gradient(left, #aadddd 0%, #ffaaaa 100%);
+    background: linear-gradient(left, #aadddd 0%, #ffaaaa 100%);
 }

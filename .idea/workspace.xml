@@ -14,7 +14,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <splitter split-orientation="vertical" split-proportion="0.8235294">
+    <splitter split-orientation="vertical" split-proportion="0.5061275">
       <split-first>
         <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
           <file leaf-file-name="main.css" pinned="false" current-in-tab="false">
@@ -65,8 +65,8 @@
           <file leaf-file-name="TestSheet5.css" pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/TestSheet5.css">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="170">
-                  <caret line="10" column="1" lean-forward="true" selection-start-line="10" selection-start-column="1" selection-end-line="10" selection-end-column="1" />
+                <state relative-caret-position="177">
+                  <caret line="16" column="40" selection-start-line="16" selection-start-column="40" selection-end-line="16" selection-end-column="40" />
                 </state>
               </provider>
             </entry>
@@ -114,8 +114,8 @@
           <file leaf-file-name="TestFile5.html" pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/TestFile5.html">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="36">
-                  <caret line="31" column="29" selection-start-line="31" selection-start-column="29" selection-end-line="31" selection-end-column="29" />
+                <state relative-caret-position="321">
+                  <caret line="28" selection-start-line="28" selection-end-line="28" />
                 </state>
               </provider>
             </entry>
@@ -262,7 +262,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JavaScript Debug.TestFile4.html">
+  <component name="RunManager" selected="JavaScript Debug.TestFile5.html">
     <configuration default="true" type="Application" factoryName="Application">
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
     </configuration>
@@ -285,7 +285,7 @@
     <configuration name="TestFile2.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/cssTutorial/Test2/TestFile2.html" />
     <configuration name="TestFile3.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/cssTutorial/Test3/TestFile3.html" />
     <configuration name="TestFile4.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/cssTutorial/test4/TestFile4.html" />
-    <configuration name="TestFile.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/cssTutorial/Test/TestFile.html" />
+    <configuration name="TestFile5.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/cssTutorial/TestFile5.html" />
     <configuration name="index.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/cssTutorial/index.html" />
     <configuration default="true" type="TestNG" factoryName="TestNG">
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
@@ -311,18 +311,18 @@
     </configuration>
     <list>
       <item itemvalue="JavaScript Debug.index.html" />
-      <item itemvalue="JavaScript Debug.TestFile.html" />
       <item itemvalue="JavaScript Debug.TestFile2.html" />
       <item itemvalue="JavaScript Debug.TestFile3.html" />
       <item itemvalue="JavaScript Debug.TestFile4.html" />
+      <item itemvalue="JavaScript Debug.TestFile5.html" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="JavaScript Debug.TestFile5.html" />
         <item itemvalue="JavaScript Debug.TestFile4.html" />
         <item itemvalue="JavaScript Debug.TestFile3.html" />
         <item itemvalue="JavaScript Debug.TestFile2.html" />
         <item itemvalue="JavaScript Debug.index.html" />
-        <item itemvalue="JavaScript Debug.TestFile.html" />
       </list>
     </recent_temporary>
   </component>
@@ -339,12 +339,12 @@
       <workItem from="1526394706693" duration="12083000" />
       <workItem from="1526463344543" duration="9876000" />
       <workItem from="1526576172468" duration="1789000" />
-      <workItem from="1526638924342" duration="5397000" />
+      <workItem from="1526638924342" duration="7028000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="29145000" />
+    <option name="totallyTimeSpent" value="30776000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="2" y="278" width="1146" height="931" extended-state="0" />
@@ -627,15 +627,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/TestFile5.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="36">
-          <caret line="31" column="29" selection-start-line="31" selection-start-column="29" selection-end-line="31" selection-end-column="29" />
+        <state relative-caret-position="321">
+          <caret line="28" selection-start-line="28" selection-end-line="28" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/TestSheet5.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="10" column="1" lean-forward="true" selection-start-line="10" selection-start-column="1" selection-end-line="10" selection-end-column="1" />
+        <state relative-caret-position="177">
+          <caret line="16" column="40" selection-start-line="16" selection-start-column="40" selection-end-line="16" selection-end-column="40" />
         </state>
       </provider>
     </entry>
