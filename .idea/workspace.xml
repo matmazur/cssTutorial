@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="498a618a-1845-491d-b048-b1418da74191" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/TestFile5.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TestSheet5.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TestFile5.html" beforeDir="false" afterPath="$PROJECT_DIR$/TestFile5.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TestSheet5.css" beforeDir="false" afterPath="$PROJECT_DIR$/TestSheet5.css" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -14,7 +14,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <splitter split-orientation="vertical" split-proportion="0.30882353">
+    <splitter split-orientation="vertical" split-proportion="0.8235294">
       <split-first>
         <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
           <file leaf-file-name="main.css" pinned="false" current-in-tab="false">
@@ -65,8 +65,8 @@
           <file leaf-file-name="TestSheet5.css" pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/TestSheet5.css">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="153">
-                  <caret line="9" column="1" lean-forward="true" selection-start-line="9" selection-start-column="1" selection-end-line="9" selection-end-column="1" />
+                <state relative-caret-position="170">
+                  <caret line="10" column="1" lean-forward="true" selection-start-line="10" selection-start-column="1" selection-end-line="10" selection-end-column="1" />
                 </state>
               </provider>
             </entry>
@@ -114,8 +114,8 @@
           <file leaf-file-name="TestFile5.html" pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/TestFile5.html">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="322">
-                  <caret line="19" column="9" lean-forward="true" selection-start-line="19" selection-start-column="9" selection-end-line="19" selection-end-column="9" />
+                <state relative-caret-position="36">
+                  <caret line="31" column="29" selection-start-line="31" selection-start-column="29" selection-end-line="31" selection-end-column="29" />
                 </state>
               </provider>
             </entry>
@@ -131,6 +131,11 @@
         <option value="CSS File" />
       </list>
     </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>ł</find>
+    </findStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -234,15 +239,15 @@
     <property name="project.structure.side.proportion" value="0.0" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\mateusz\IdeaProjects\cssTutorial\Test3" />
+      <recent name="C:\Users\mateusz\IdeaProjects\cssTutorial" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\mateusz\IdeaProjects\cssTutorial\test4" />
       <recent name="C:\Users\mateusz\IdeaProjects\cssTutorial\Test2" />
       <recent name="C:\Users\mateusz\IdeaProjects\cssTutorial\Test" />
       <recent name="C:\Users\mateusz\IdeaProjects\cssTutorial\css" />
-    </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\mateusz\IdeaProjects\cssTutorial\Test3" />
-      <recent name="C:\Users\mateusz\IdeaProjects\cssTutorial" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -334,12 +339,12 @@
       <workItem from="1526394706693" duration="12083000" />
       <workItem from="1526463344543" duration="9876000" />
       <workItem from="1526576172468" duration="1789000" />
-      <workItem from="1526638924342" duration="3183000" />
+      <workItem from="1526638924342" duration="5397000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="26931000" />
+    <option name="totallyTimeSpent" value="29145000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="2" y="278" width="1146" height="931" extended-state="0" />
@@ -622,15 +627,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/TestFile5.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="322">
-          <caret line="19" column="9" lean-forward="true" selection-start-line="19" selection-start-column="9" selection-end-line="19" selection-end-column="9" />
+        <state relative-caret-position="36">
+          <caret line="31" column="29" selection-start-line="31" selection-start-column="29" selection-end-line="31" selection-end-column="29" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/TestSheet5.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" column="1" lean-forward="true" selection-start-line="9" selection-start-column="1" selection-end-line="9" selection-end-column="1" />
+        <state relative-caret-position="170">
+          <caret line="10" column="1" lean-forward="true" selection-start-line="10" selection-start-column="1" selection-end-line="10" selection-end-column="1" />
         </state>
       </provider>
     </entry>
